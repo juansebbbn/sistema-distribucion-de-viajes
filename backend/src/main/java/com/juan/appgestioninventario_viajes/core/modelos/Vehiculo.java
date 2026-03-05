@@ -1,8 +1,6 @@
 package com.juan.appgestioninventario_viajes.core.modelos;
-
 import lombok.Builder;
 import lombok.Data;
-
 @Data
 @Builder
 public class Vehiculo {
